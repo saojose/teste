@@ -353,6 +353,7 @@ h1, h2, h3, h4, h5, h6 {
   background-size: contain;
   background-position: right top;
   margin-top: 70px;
+  margin-bottom: 40px;
   color: #fff;
 }
 
@@ -367,7 +368,6 @@ margin: 0 0 20px 0;
 #hero h2 {
   color: #008000;
   margin-top: 20px;
- margin-bottom: 15px;
   font-size: 24px;
 }
 
